@@ -16,4 +16,4 @@ O dev.finances é uma aplicação de controle financeiro, onde é possível cada
 
 🔖 Layout do projecto 
 
-![Dev-Finances](/assets/DEv-Finances.png)
+![dev-Finances](/assets/Dev-Finances.png)
