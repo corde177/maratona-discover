@@ -1,16 +1,19 @@
 # maratona-discover
- Dev-Finances
+ ### Dev-Finances
 
- 🚀 Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+ 💻 Projecto
 
-HTML
-CSS
-JavaScript
-
-💻 Projeto
 O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
 
-🔖 Layout
+ 🚀  Tecnologias usadas no projecto
+   #### Esse projecto foi desenvolvido com as seguintes tecnologias:
 
+* HTML
 
+* CSS 
+
+* JavaScript
+
+🔖 Layout do projecto 
+
+![dev-finances](./assets/DEv-Finances.png)
