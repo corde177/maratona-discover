@@ -16,4 +16,6 @@ O dev.finances é uma aplicação de controle financeiro, onde é possível cada
 
 🔖 Layout do projecto 
 
+Link Demo: https://corde177.github.io/maratona-discover/
+
 ![dev-Finances](/assets/Dev-Finances.png)
